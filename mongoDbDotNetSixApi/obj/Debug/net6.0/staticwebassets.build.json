@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZTH9g8ehQxnkc8bKhAHCPBhGS2uh455Sj4UUIks9gPw=",
+  "Source": "mongoDbDotNetSixApi",
+  "BasePath": "_content/mongoDbDotNetSixApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
